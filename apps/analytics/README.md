@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>📈 Visualize you Lemon Agent Usage</h1>
+  <h1>📈 Visualize Your Lemon Agent Usage</h1>
   <br />
     <a href="https://github.com/felixbrock/lemonagent">
     <img alt="Main Readme" src="https://img.shields.io/badge/Jump to the 🍋 main readme-x?style=for-the-badge&logoColor=white&label&labelColor=gray&color=gray">
